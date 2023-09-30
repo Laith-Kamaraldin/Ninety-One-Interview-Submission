@@ -20,7 +20,7 @@ python get_top_scorers.py
 
 ### Running the unit tests
 ```
-python -m unittest test_top_scorers.py
+python -m unittest tests/test_top_scorers.py
 ```
 
 ###Design Choices and Assumptions
