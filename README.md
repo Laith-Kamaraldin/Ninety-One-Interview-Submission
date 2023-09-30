@@ -32,7 +32,7 @@ Data Format: Utilized a list of tuples to store parsed data, with each tuple con
 Exception Handling: Basic error management is included to handle common issues like file not found or incorrect data format.
 
 #####Assumptions:
-Data Format: Assumes file data is structured as (first name, second name, score) and score is an integer.
+Data Format: Assumes file data is structured as (first name, second name, score) and score is an integer, also assumes that the first line in the data is the headers.
 Data Validity: Assumes that the provided data is clean and does not require extensive validation.
 
 ######Why Not a Class?
