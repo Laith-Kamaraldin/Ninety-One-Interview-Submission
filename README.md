@@ -2,7 +2,7 @@
 
 ## Overview
 This codebase contains solutions for an interview task assigned which involves extracting and processing data from 
-a CSV file to identify top scorers. The problem statement can be found in PDF file problem_statement.pdf in the same directory.
+a file to identify top scorers. The problem statement can be found in PDF file problem_statement.pdf in the same directory.
 
 ## Prerequisites
 - Python 3.x
